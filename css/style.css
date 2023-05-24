@@ -1,0 +1,366 @@
+@font-face {
+    font-family: YekanBakh;
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(../fonts/yekanbakh/YekanBakhFaNum06Bold.6e83e5f.eot);
+    src: url(../fonts/yekanbakh/YekanBakhFaNum06Bold.6e83e5f.eot?#iefix) format("embedded-opentype"), url(../fonts/yekanbakh/YekanBakhFaNum06Bold.b5e6bbe.woff) format("woff"), url(../fonts/yekanbakh/YekanBakhFaNum06Bold.fbecc2e.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: YekanBakh;
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src: url(../fonts/yekanbakh/YekanBakhFaNum02Thin.72d5615.eot);
+    src: url(../fonts/yekanbakh/YekanBakhFaNum02Thin.72d5615.eot?#iefix) format("embedded-opentype"), url(../fonts/yekanbakh/YekanBakhFaNum02Thin.beed8c9.woff) format("woff"), url(../fonts/yekanbakh/YekanBakhFaNum02Thin.41a4531.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: YekanBakh;
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../fonts/yekanbakh/YekanBakhFaNum03Light.69e20ff.eot);
+    src: url(../fonts/yekanbakh/YekanBakhFaNum03Light.69e20ff.eot?#iefix) format("embedded-opentype"), url(../fonts/yekanbakh/YekanBakhFaNum03Light.db90488.woff) format("woff"), url(../fonts/yekanbakh/YekanBakhFaNum03Light.75924cf.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: YekanBakh;
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(../fonts/yekanbakh/YekanBakhFaNum04Regular.86402c1.eot);
+    src: url(../fonts/yekanbakh/YekanBakhFaNum04Regular.86402c1.eot?#iefix) format("embedded-opentype"), url(../fonts/yekanbakh/YekanBakhFaNum04Regular.44205fa.woff) format("woff"), url(../fonts/yekanbakh/YekanBakhFaNum04Regular.76efaa5.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: YekanBakh;
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(../fonts/yekanbakh/YekanBakhFaNum05Medium.ea1aeb0.eot);
+    src: url(../fonts/yekanbakh/YekanBakhFaNum05Medium.ea1aeb0.eot?#iefix) format("embedded-opentype"), url(../fonts/yekanbakh/YekanBakhFaNum05Medium.10940d8.woff) format("woff"), url(../fonts/yekanbakh/YekanBakhFaNum05Medium.cd93931.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: YekanBakh;
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url(../fonts/yekanbakh/YekanBakhFaNum06Bold.6e83e5f.eot);
+    src: url(../fonts/yekanbakh/YekanBakhFaNum06Bold.6e83e5f.eot?#iefix) format("embedded-opentype"), url(../fonts/yekanbakh/YekanBakhFaNum06Bold.b5e6bbe.woff) format("woff"), url(../fonts/yekanbakh/YekanBakhFaNum06Bold.fbecc2e.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: YekanBakh;
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(../fonts/yekanbakh/YekanBakhFaNum07Heavy.df9663a.eot);
+    src: url(../fonts/yekanbakh/YekanBakhFaNum07Heavy.df9663a.eot?#iefix) format("embedded-opentype"), url(../fonts/yekanbakh/YekanBakhFaNum07Heavy.f3c20ee.woff) format("woff"), url(../fonts/yekanbakh/YekanBakhFaNum07Heavy.c467a6c.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: YekanBakh;
+    font-style: normal;
+    font-weight: 950;
+    font-display: swap;
+    src: url(../fonts/yekanbakh/YekanBakhFaNum08Fat.6a976aa.eot);
+    src: url(../fonts/yekanbakh/YekanBakhFaNum08Fat.6a976aa.eot?#iefix) format("embedded-opentype"), url(../fonts/yekanbakh/YekanBakhFaNum08Fat.f9b9741.woff) format("woff"), url(../fonts/yekanbakh/YekanBakhFaNum08Fat.338edf3.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: YekanBakhEn;
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(../fonts/yekanbakh/YekanBakhFa-En06Bold.197c102.eot);
+    src: url(../fonts/yekanbakh/YekanBakhFa-En06Bold.197c102.eot?#iefix) format("embedded-opentype"), url(../fonts/yekanbakh/YekanBakhFa-En06Bold.790b34d.woff) format("woff"), url(../fonts/yekanbakh/YekanBakhFa-En06Bold.d919685.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: YekanBakhEn;
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src: url(../fonts/yekanbakh/YekanBakhFa-En02Thin.79b731f.eot);
+    src: url(../fonts/yekanbakh/YekanBakhFa-En02Thin.79b731f.eot?#iefix) format("embedded-opentype"), url(../fonts/yekanbakh/YekanBakhFa-En02Thin.c35d8c6.woff) format("woff"), url(../fonts/yekanbakh/YekanBakhFa-En02Thin.54c6891.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: YekanBakhEn;
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../fonts/yekanbakh/YekanBakhFa-En03Light.45e7db6.eot);
+    src: url(../fonts/yekanbakh/YekanBakhFa-En03Light.45e7db6.eot?#iefix) format("embedded-opentype"), url(../fonts/yekanbakh/YekanBakhFa-En03Light.2f04dd0.woff) format("woff"), url(../fonts/yekanbakh/YekanBakhFa-En03Light.6fef00f.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: YekanBakhEn;
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(../fonts/yekanbakh/YekanBakhFa-En04Regular.a3dae00.eot);
+    src: url(../fonts/yekanbakh/YekanBakhFa-En04Regular.a3dae00.eot?#iefix) format("embedded-opentype"), url(../fonts/yekanbakh/YekanBakhFa-En04Regular.0328b1e.woff) format("woff"), url(../fonts/yekanbakh/YekanBakhFa-En04Regular.3e7608c.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: YekanBakhEn;
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(../fonts/yekanbakh/YekanBakhFa-En05Medium.f55a511.eot);
+    src: url(../fonts/yekanbakh/YekanBakhFa-En05Medium.f55a511.eot?#iefix) format("embedded-opentype"), url(../fonts/yekanbakh/YekanBakhFa-En05Medium.f7c0e91.woff) format("woff"), url(../fonts/yekanbakh/YekanBakhFa-En05Medium.a9ac64a.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: YekanBakhEn;
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url(../fonts/yekanbakh/YekanBakhFa-En06Bold.197c102.eot);
+    src: url(../fonts/yekanbakh/YekanBakhFa-En06Bold.197c102.eot?#iefix) format("embedded-opentype"), url(../fonts/yekanbakh/YekanBakhFa-En06Bold.790b34d.woff) format("woff"), url(../fonts/yekanbakh/YekanBakhFa-En06Bold.d919685.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: YekanBakhEn;
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(../fonts/yekanbakh/YekanBakhFa-En07Heavy.5770b55.eot);
+    src: url(../fonts/yekanbakh/YekanBakhFa-En07Heavy.5770b55.eot?#iefix) format("embedded-opentype"), url(../fonts/yekanbakh/YekanBakhFa-En07Heavy.4f4f434.woff) format("woff"), url(../fonts/yekanbakh/YekanBakhFa-En07Heavy.5b09991.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: YekanBakhEn;
+    font-style: normal;
+    font-weight: 950;
+    font-display: swap;
+    src: url(../fonts/yekanbakh/YekanBakhFa-En08Fat.209d7a1.eot);
+    src: url(../fonts/yekanbakh/YekanBakhFa-En08Fat.209d7a1.eot?#iefix) format("embedded-opentype"), url(../fonts/yekanbakh/YekanBakhFa-En08Fat.9244092.ttf) format("truetype")
+}
+
+html body {
+    font-family: yekanbakh !important
+}
+
+.videos{
+    position: relative;
+}
+.videos .modalbutton, .videos .modalbutton::before {
+    top: 50%;
+    transform: translate(-50%, -50%)
+}
+
+.modal {
+    --bs-modal-header-border-width: none !important;
+    --bs-modal-border-color: none !important;
+    --bs-modal-bg: none;
+    background: 0 0 !important
+}
+
+.modal .modal-header button {
+    position: absolute;
+    right: 1rem;
+    background: 0 0 !important;
+    font-size: 30px
+}
+
+.modal .modal-header button i {
+    color: #fff
+}
+
+.video-forms .iframe-container, .modal .modal-body .iframe-container, .services-section .video-forms .iframe-container {
+    position: relative;
+    width: 100%;
+    height: 100%
+}
+
+.video-forms .iframe-container iframe, .modal .modal-body .iframe-container iframe, .services-section .video-forms .iframe-container iframe {
+    display: flex;
+    -o-object-fit: cover;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    min-height: 100%
+}
+
+.videos .modalbutton {
+    position: absolute;
+    left: 50%;
+    z-index: 33;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px
+}
+
+.videos .modalbutton span {
+    font-size: 26px;
+    z-index: 99 !important;
+    color: #000;
+    vertical-align: middle
+}
+
+.videos .modalbutton::before {
+    z-index: -1;
+    content: "";
+    width: 90%;
+    height: 90%;
+    position: absolute;
+    left: 50%;
+    background: #fff;
+    border-radius: 50%;
+    -webkit-animation-name: pulse;
+    animation-name: pulse;
+    -webkit-animation-duration: 2s;
+    animation-duration: 2s;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite
+}
+
+
+.videoplayer {
+    margin-top: 150px
+}
+
+
+.video-next-btn {
+    position: absolute;
+    top: 130px;
+    left: 20%
+}
+
+.video-prev-btn {
+    position: absolute;
+    top: 130px;
+    right: 20%
+}
+
+.video-next-btn i, .video-prev-btn i {
+    color: #0b5ed7;
+    font-size: 30px
+}
+
+.video-next-btn:hover i, .video-prev-btn:hover i {
+    transform: scale(1.2);
+    transition: .3s
+}
+
+.video-inner-layer {
+    position: absolute;
+    border-radius: 9px;
+    z-index: 100;
+    width: 100%;
+    bottom: 0;
+    padding: 9% 5% 2%;
+    background: url("../images/shadow.png") top/contain
+}
+
+
+.color-my-blue {
+    color: #5145e5
+}
+
+.wave-img {
+    height: 60px
+}
+
+@media (min-width: 768px) {
+    .videos .modalbutton {
+        width: 50px;
+        height: 50px
+    }
+
+    .video-next-btn {
+        position: absolute;
+        top: 40%;
+        left: 5%
+    }
+
+    .video-prev-btn {
+        position: absolute;
+        top: 40%;
+        right: 5%
+    }
+
+
+    .video-main-2-3, .video-section-1, .videos, .videos img {
+        height: 100%
+    }
+
+    .video-section-2, .video-section-3 , .video-section-4 , .video-section-5 {
+        height: 46%
+    }
+
+}
+
+@media (min-width: 991px) {
+    .videos .modalbutton {
+        width: 70px;
+        height: 70px
+    }
+    .video-next-btn {
+        position: absolute;
+        top: 58%;
+        left: 5%
+    }
+
+    .video-prev-btn {
+        position: absolute;
+        top: 58%;
+        right: 5%
+    }
+    .video-div {
+        height: 330px
+    }
+
+    .video-main-2-3, .video-section-1, .videos, .videos img {
+        height: 100%
+    }
+
+    .video-section-2, .video-section-3 , .video-section-4 , .video-section-5 {
+        height: 47%
+    }
+
+
+}
+
+@media (min-width: 1200px) {
+    .video-div {
+        height: 430px
+    }
+
+    .video-main-2-3, .video-section-1, .videos, .videos img {
+        height: 100%
+    }
+
+    .video-section-2, .video-section-3 , .video-section-4 , .video-section-5 {
+        height: 48%
+    }
+
+}
+@media (max-width: 1200px) {
+    .video-div > div{
+        align-items: center;
+    }
+}
+.video-nav {
+    width: 12px;
+    height: 12px;
+    border: 2px solid #5145e5;
+    border-radius: 20px;
+    cursor: not-allowed;
+    transition: .5s;
+}
+
+.video-nav-active {
+    background: #5145e5;
+    transform: translateY(-5px);
+    color: #FFFFFF;
+}
+
